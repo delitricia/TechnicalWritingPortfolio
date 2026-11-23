@@ -1,13 +1,13 @@
 
-# 👩‍💻 Women in Technology
+# Women in Technology
 
-## 📌 Project Overview
+## Project Overview
 
 This project explores women's representation in the technology sector.
 
 **Objective:** Understand gender representation across different regions.
 
-## 📊 Data
+## Data
 
 The following data is fictional and used for demonstration purposes.
 
@@ -17,7 +17,7 @@ The following data is fictional and used for demonstration purposes.
 | Asia | 22 |
 | America | 30 |
 
-## 🧮 Statistical Example
+## Statistical Example
 
 The average representation is calculated using the arithmetic mean:
 
@@ -26,7 +26,7 @@ $$
 $$
 
 
-## 🔄 Analysis Process
+## Analysis Process
 
 ```mermaid
 flowchart TD
@@ -35,13 +35,13 @@ flowchart TD
     C --> D[Draw Conclusions]
 ```
 
-## 💡 Key Findings
+## Key Findings
 
 - America has the highest representation (30%).
 - Asia has the lowest representation (22%).
 - The average is 25.67%.
 
-## 📝 Conclusion
+## Conclusion
 
 Data analysis helps us understand gender representation
 and identify opportunities for improvement.
